@@ -1,0 +1,1 @@
+Hi! This is a Skate 3D Model that I made on Autodesk Fusion 360. I'm sharing with you in this repo a .STL file wich you can use it for whatever you want to do. You can open it with Solidworks, ThinkerCAD, Meshmixer and others apps.
